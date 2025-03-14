@@ -1,0 +1,5 @@
+telebot
+requests
+colorama
+pycryptodome
+Crypto
